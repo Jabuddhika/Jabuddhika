@@ -87,9 +87,9 @@ Believing that the way of heading forward with the surrounding ones is much bles
 <hr>
 ## MY GITHUB STATS
 
-[![Buddhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashadhi&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Buddhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabuddhika&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashadhi&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabuddhika&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
