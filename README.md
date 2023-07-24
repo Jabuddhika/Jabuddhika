@@ -6,7 +6,7 @@
 - 💻 Currently studying React, Angular, Node and Spring Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Development
 - 🥅 2023 Goals: Become a Professional Software Engineer and expertise in the field of Software Engineering
-- 📫 Catch me on LinkedIn: [linkedin](https://linkedin.com/in/buddhika sampath jayasinghe)
+- 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/in/buddhika-sampath-jayasinghe-766a21270/)
 <hr>
 
 ## 👦 ABOUT ME
