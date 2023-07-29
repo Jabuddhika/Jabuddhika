@@ -1,5 +1,4 @@
-
-![Profile Animation](https://github.com/Jabuddhika/Jabuddhika/blob/main/ezgif-2-945f4610ab.gif)
+## Hi I am Buddhika
 
 ## A Passionate Fullstack Developer From Sri Lanka
 
@@ -87,7 +86,6 @@ Believing that the way of heading forward with the surrounding ones is much bles
 <hr>
 ## MY GITHUB STATS
 
-[![Buddhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabuddhika&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabuddhika&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
